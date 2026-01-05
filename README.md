@@ -1,0 +1,2 @@
+# digitalisering_inom_tillverkningsindustrin
+Labbhandledningar och data för kursen digitalisering inom tillverkningsindustrin
